@@ -1,0 +1,237 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    width: 100%;
+    display: flex;
+}
+.heading{
+
+    font-size: 50px;
+    text-shadow: rgb(62, 223, 223);
+}
+
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: orange;
+}
+.half-width{
+    width:50%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.upperImage{
+    width: 90%;
+}
+.me{
+    width: 70%;
+    margin-top: 70px;
+    margin-left: 70px;
+    border-radius: 10%;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(158, 76, 43), rgb(233, 48, 15));
+    padding: 10px 40px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+}
+p{
+    color: dimgray;
+}
+.about-me{
+    background-image: url("image/middle-background.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+    
+}
+.about-intro{
+    text-align: justify;
+  width: 50%;
+  margin-top: 150px;
+  margin-right: 150px;
+  padding: 20px;
+}
+h2{
+    font-size: 40px;
+}
+
+
+.description{
+   text-align:center;
+   margin-left: 90px;
+   margin-bottom: 30px;
+}
+#food-img {
+  width: 100%;
+  border-radius: 15px;
+}
+#food-title {
+  text-align: justify;
+}
+.food-iteams{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+.food-box{
+    padding: 8px;
+    box-shadow: 0px 10px 10px 10px rgb(46, 192, 119);
+    border-radius: 15px;
+    width: 22%;
+   
+}
+
+.follower{
+  width: 50%;
+  height: fit-content;
+  margin-left: 20%;
+  display: flex;
+  justify-content: space-evenly;
+  box-shadow: 0px 10px 10px 10px rgb(233, 20, 126);
+  padding: 15px 20px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+.follower h1{
+  font-size: 35px;
+}
+.footer{
+  background-color: #462727;
+  text-align: center;
+  width: 100%;
+  color: white;
+  padding: 7px;
+  margin-top: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .about-me{
+    display: flex;
+    width: 0%;
+    background-image: url("image/middle-background.png");
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+.about-img{
+  width: 50%;
+  margin-left:10px;
+  height: 10%;
+}
+
+.about {
+  text-align: justify;
+  width: 50%;
+  margin-top: 150px;
+  margin-right: 150px;
+  padding: 20px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+.half-width img{
+    width: 100%;
+}
+
+
+.about-me{
+    background-image: url("image/middle-background.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 90%;
+}
+h2{
+    font-size: 40px;
+}
+.half-width img{
+    width:50%;
+    margin-left: 60px;
+    margin-top: 140px;
+} */
