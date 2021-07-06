@@ -18,11 +18,11 @@ section{
     color: rgb(38, 41, 231); 
     margin-top: 20px; 
     padding: 10px;
+    border-radius: 10px;
 }
 .heading{
 
     font-size: 50px;
-    text-shadow: rgb(62, 223, 223);
 }
 
 h1{
@@ -81,7 +81,7 @@ h2{
 
 .description{
    text-align:center;
-   margin-left: 90px;
+   margin-left: 60px;
    margin-bottom: 30px;
 }
 #food-img {
@@ -138,120 +138,3 @@ h2{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .about-me{
-    display: flex;
-    width: 0%;
-    background-image: url("image/middle-background.png");
-    background-repeat: no-repeat;
-    margin-top: 10px;
-}
-.about-img{
-  width: 50%;
-  margin-left:10px;
-  height: 10%;
-}
-
-.about {
-  text-align: justify;
-  width: 50%;
-  margin-top: 150px;
-  margin-right: 150px;
-  padding: 20px;
-} */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
-
-.half-width img{
-    width: 100%;
-}
-
-
-.about-me{
-    background-image: url("image/middle-background.png");
-    background-repeat: no-repeat;
-    background-position: left;
-    width: 90%;
-}
-h2{
-    font-size: 40px;
-}
-.half-width img{
-    width:50%;
-    margin-left: 60px;
-    margin-top: 140px;
-} */
