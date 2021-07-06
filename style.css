@@ -9,7 +9,7 @@ section{
     display: flex;
 }
 .nav{
-    background-color: cyan;
+    background-color: rgb(184, 96, 96);
     width: 100%;
     height: 5px;
 }
@@ -38,6 +38,7 @@ h1 span{
     margin-left: 5%;
     padding-left: 2%;
 }
+
 .upperImage{
     width: 90%;
 }
@@ -49,7 +50,7 @@ h1 span{
 }
 .anchor-button{
     text-decoration: none;
-    background: linear-gradient(45deg, rgb(158, 76, 43), rgb(233, 48, 15));
+    background: linear-gradient(45deg, rgb(233, 96, 42), rgb(216, 37, 6));
     padding: 10px 40px;
     border-radius: 25px;
     color: white;
@@ -57,7 +58,7 @@ h1 span{
     margin-top: 20px;
 }
 p{
-    color: dimgray;
+    color: rgb(121, 107, 107);
 }
 .about-me{
     background-image: url("image/middle-background.png");
@@ -98,7 +99,7 @@ h2{
 }
 .food-box{
     padding: 8px;
-    box-shadow: 0px 10px 10px 10px rgb(46, 192, 119);
+    box-shadow: 0px 10px 10px 10px rgb(155, 224, 190);
     border-radius: 15px;
     width: 22%;
    
@@ -110,7 +111,7 @@ h2{
   margin-left: 11%;
   display: flex;
   justify-content: space-evenly;
-  box-shadow: 0px 10px 10px 10px rgb(233, 20, 126);
+  box-shadow: 0px 10px 10px 10px rgb(146, 114, 130);
   padding: 15px 20px;
   border-radius: 10px;
   margin-bottom: 50px;
@@ -119,10 +120,10 @@ h2{
   font-size: 35px;
 }
 .footer{
-  background-color: #462727;
+  background-color: #39547c;
   text-align: center;
   width: 100%;
-  color: rgb(109, 216, 9);
+  color: rgb(152, 197, 110);
   padding: 7px;
   margin-top: 23px;
 }
@@ -133,7 +134,7 @@ h2{
     padding: 10px;
 }
 .footer p{
-    color: cyan;
+    color: rgb(77, 143, 143);
 }
 
 
